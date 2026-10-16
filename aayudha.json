@@ -1,0 +1,30 @@
+{
+  "version": "0.1.0",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/rahulnakmol/agentic-ayudha/releases/download/v0.1.0/aayudha_0.1.0_windows_amd64.zip",
+      "bin": [
+        "aayudha.exe",
+        [
+          "aayudha.exe",
+          "aayu"
+        ]
+      ],
+      "hash": "2addf4117645f15394a15951ac985685398b176ece92e670aeee06540d59c94b"
+    },
+    "arm64": {
+      "url": "https://github.com/rahulnakmol/agentic-ayudha/releases/download/v0.1.0/aayudha_0.1.0_windows_arm64.zip",
+      "bin": [
+        "aayudha.exe",
+        [
+          "aayudha.exe",
+          "aayu"
+        ]
+      ],
+      "hash": "bf510826764da103b64c9db57360616eaa4299783aeb5875ac9a9c4fdb0a31a3"
+    }
+  },
+  "homepage": "https://github.com/rahulnakmol/agentic-ayudha",
+  "license": "BSD-3-Clause",
+  "description": "Agentic software delivery pod in one binary."
+}
