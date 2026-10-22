@@ -1,8 +1,8 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/rahulnakmol/agentic-ayudha/releases/download/v0.2.0/aayudha_0.2.0_windows_amd64.zip",
+      "url": "https://github.com/rahulnakmol/agentic-ayudha/releases/download/v0.3.0/aayudha_0.3.0_windows_amd64.zip",
       "bin": [
         "aayudha.exe",
         [
@@ -10,10 +10,10 @@
           "aayu"
         ]
       ],
-      "hash": "71ffd232dd277045ce83c6aa49c87a7e2a9b36faef7c04a73a0e903735717f2c"
+      "hash": "2e1a1ca57929b57db3a43ef71882aaaacadcc881714337f5aec59abd5339e6bd"
     },
     "arm64": {
-      "url": "https://github.com/rahulnakmol/agentic-ayudha/releases/download/v0.2.0/aayudha_0.2.0_windows_arm64.zip",
+      "url": "https://github.com/rahulnakmol/agentic-ayudha/releases/download/v0.3.0/aayudha_0.3.0_windows_arm64.zip",
       "bin": [
         "aayudha.exe",
         [
@@ -21,7 +21,7 @@
           "aayu"
         ]
       ],
-      "hash": "6b1bda22273517b84018111cc1e4f51a463f5de6461e24e46ab6308995a55f27"
+      "hash": "d3dc9f43ec0388778a0047f280215f78bb650e198ef049d9bdada259b314edfc"
     }
   },
   "homepage": "https://github.com/rahulnakmol/agentic-ayudha",
